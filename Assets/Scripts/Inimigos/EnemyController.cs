@@ -71,7 +71,9 @@ public class EnemyController : MonoBehaviour
     {
         if (collision.CompareTag("PlayerWeakPoint"))
         {
-            PlayerController player = collision.GetComponent<PlayerController>();
+            Debug.Log(collision.transform.root.name + " morreu!");
+
+            PlayerController player = collision.transform.root.GetComponent<PlayerController>();
             if (player != null)
             {
                 player.Die();
