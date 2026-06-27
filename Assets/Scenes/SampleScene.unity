@@ -856,7 +856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61948ca6242e3d94db964ee7b1d9dd27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LimitesManager
-  teleportMargin: 1
+  teleportMargin: 0
 --- !u!1 &438320746
 GameObject:
   m_ObjectHideFlags: 0
@@ -1901,7 +1901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61948ca6242e3d94db964ee7b1d9dd27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LimitesManager
-  teleportMargin: 1
+  teleportMargin: 0
 --- !u!114 &1849008128
 MonoBehaviour:
   m_ObjectHideFlags: 0
