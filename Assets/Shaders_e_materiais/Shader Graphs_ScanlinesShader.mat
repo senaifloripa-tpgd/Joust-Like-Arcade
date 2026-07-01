@@ -37,10 +37,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Densidade: 0
+    - _Densidade: 500
     - _Intensidade: 1
     - _Peso: 0
-    - _Velocidade: 0
+    - _Velocidade: 10
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
